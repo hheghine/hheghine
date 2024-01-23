@@ -6,3 +6,6 @@
 <br>
 Currently studying at 42 Yerevan and PicsArt Academy.<br>
 Excited to find new challenges, participate in exciting projects, and continuously improve my skills.<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheghine&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=cobalt)
+
