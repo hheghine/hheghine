@@ -7,5 +7,5 @@
 Currently studying at 42 Yerevan and PicsArt Academy.<br>
 Excited to find new challenges, participate in exciting projects, and continuously improve my skills.<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheghine&hide=Makefile,Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheghine&layout=donut&hide=Makefile,Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua&size_weight=0.5&count_weight=0.5&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
