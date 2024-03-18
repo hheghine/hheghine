@@ -4,7 +4,7 @@
 
 **Hello, I'm Heghine!**
 <br>
-Currently studying at 42 Yerevan and PicsArt Academy.<br>
+Currently studying at [42 Yerevan](https://42yerevan.am/) and [PicsArt Academy](https://picsartacademy.am/).<br><br>
 Excited to find new challenges, participate in exciting projects, and continuously improve my skills.<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheghine&layout=donut&hide=Makefile,Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua&size_weight=0.5&count_weight=0.5&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
