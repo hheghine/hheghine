@@ -4,8 +4,8 @@ Currently studying at [42 Yerevan](https://42yerevan.am/) and [PicsArt Academy](
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419" width="27%" />
-    <span class="typing-text"><br>I'm passionate about solving problems that matter and always looking for new challenges. Excited to participate
-      in exciting projects and continuously improve my skills.<br><br> </span>
+    <span class="typing-text"><br>I'm passionate about solving problems that matter and always looking for new challenges. <br>Excited to participate
+      in interesting projects and continuously improve my skills.<br><br> </span>
 </div>
 
 
