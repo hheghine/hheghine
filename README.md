@@ -1,4 +1,6 @@
 ### **Hello, I'm Heghine!☽**<br>
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-7289DA?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hheghine/)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ng8enlnfgp2shk81a5zc6lhz7?si=7e83d5a6279148eb)
 
 Currently studying at [42 Yerevan](https://42yerevan.am/) and [PicsArt Academy](https://picsartacademy.am/).<br>
 
