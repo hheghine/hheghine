@@ -1,5 +1,8 @@
 ## **Hello, I'm Heghine!☽**<br>
 
+![giphy](https://github.com/hheghine/hheghine/assets/119530584/1ce1b930-60fc-45f9-befc-30f0a68122c7)
+
+
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-7289DA?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hheghine/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ng8enlnfgp2shk81a5zc6lhz7?si=7e83d5a6279148eb)
 
