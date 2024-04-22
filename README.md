@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello, I'm Heghine!☽</h1>
+    <h1>Hello, I'm Heghine!☽<br><br></h1>
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
     <img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419" width="25%" />
     <div style="text-align: center;">
         <p><br><br>✧₊⁺&nbsp;&nbsp;&nbsp;Passionate about solving problems that matter and always looking for new challenges. </p>
-        <p>✧₊⁺&nbsp;&nbsp;&nbsp;I enjoy low-level work and appreciate well-designed systems.</p>
+        <p>✧₊⁺&nbsp;&nbsp;&nbsp;I enjoy low-level programming and appreciate well-designed systems.</p>
         <p>✧₊⁺&nbsp;&nbsp;&nbsp;Excited to participate in interesting projects and continuously improve my skills.<br><br><br></p>
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
