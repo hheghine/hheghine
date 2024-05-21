@@ -26,5 +26,13 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hheghine&theme=material-palenight&hide_border=false" style="width: 400px; height: 200px;" />
 </div>
 
+---
 
+<div align="center">
+  
+  [![Visits Badge](https://badges.strrl.dev/visits/hheghine/hheghine?style=for-the-badge&color=6E40F3)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/hheghine?style=for-the-badge&color=6E40F3)](https://github.com/hheghine?tab=repositories)
+  [![Commits Badge](https://badges.strrl.dev/commits/weekly/hheghine?style=for-the-badge&color=6E40F3)](https://github.com/hheghine?tab=repositories)
+
+</div>
 
