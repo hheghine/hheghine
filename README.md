@@ -15,6 +15,7 @@
         <p>✧₊⁺&nbsp;&nbsp;&nbsp;Passionate about solving problems that matter and always looking for new challenges. </p>
         <p>✧₊⁺&nbsp;&nbsp;&nbsp;Excited to participate in interesting projects and continuously improve my skills.<br><br><br></p>
     </div>
+    <h1>GITHUB STATS</h1>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheghine&layout=compact&hide=Makefile,Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua&size_weight=0.5&count_weight=0.5&theme=material-palenight" style="width: 400px; height: 200px;" />
     </a>
