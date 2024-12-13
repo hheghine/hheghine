@@ -5,13 +5,13 @@
     <a href="https://open.spotify.com/user/ng8enlnfgp2shk81a5zc6lhz7?si=7e83d5a6279148eb"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </div>
 
-
-<p align ="center"><br><br>✧₊⁺&nbsp;&nbsp;&nbsp;I enjoy low-level programming and appreciate well-designed systems.</p>
+<p align ="center"><br><br>✧₊⁺&nbsp;&nbsp;&nbsp;Embedded Software Engineer</strong>.</p>
+<p align ="center">✧₊⁺&nbsp;&nbsp;&nbsp;I enjoy low-level programming and appreciate well-designed systems.</p>
 
 <div style="display: flex; flex-direction: column;", align="center">
     <img src="https://github.com/hheghine/hheghine/assets/119530584/e5f5efa8-2fa8-45ca-921a-978ac3bda419" width="25%" />
     <div style="text-align: center;">
-        <p><br><br>✧₊⁺&nbsp;&nbsp;&nbsp;Currently studying at <a href="https://42.fr/en/homepage/"><strong>42 International School</strong></a> and <strong>PicsArt Academy</strong>.</p>
+        <p><br><br>✧₊⁺&nbsp;&nbsp;&nbsp;Member of <a href="https://42.fr/en/homepage/"><strong>42 Network</strong></a>.</p>
         <p>✧₊⁺&nbsp;&nbsp;&nbsp;Passionate about solving problems that matter and always looking for new challenges. </p>
         <p>✧₊⁺&nbsp;&nbsp;&nbsp;Excited to participate in interesting projects and continuously improve my skills.<br><br><br></p>
     </div>
